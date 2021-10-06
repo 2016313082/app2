@@ -14,4 +14,4 @@
         <Label Text="{Binding SinUpdate}"></Label>
     </StackLayout>
 
-</ContentPage>
+</ContentPage> 
